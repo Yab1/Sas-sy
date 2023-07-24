@@ -1,5 +1,5 @@
 {
-  "name": "complete-sass-tutorial",
+  "name": "Sas-sy",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,6 +8,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "gh-pages": "^5.0.0",
     "gulp": "^4.0.2",
     "gulp-purgecss": "^5.0.0",
     "gulp-sass": "^5.1.0",
